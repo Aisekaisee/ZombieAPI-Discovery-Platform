@@ -1,0 +1,8 @@
+{
+  "name": "zombieguard-mock-apis",
+  "version": "1.0.0",
+  "description": "Mock bank APIs for ZombieGuard demo",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
